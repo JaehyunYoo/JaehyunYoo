@@ -1,21 +1,24 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=FFB280&height=400&section=header&text=Hi%20👋I'm%20Microcosm&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=5A5FDB&height=400&section=header&text=Hi%20👋I'm%20Microcosm&fontSize=55)
 
-<h1 align="center">Hi 👋 I'm JaehyunYoo</h1>
-<h3 align="center">I Like functional programming javascript react </h3>
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=JaehyunYoo" alt="JaehyunYoo" /> </p>
+<p align='center'><img  src="https://komarev.com/ghpvc/?username=JaehyunYoo" alt="JaehyunYoo" /></p>
 
+<p align='center'>💿  I Like React,Javascript ❤️  Functional Programming 💿 </p>
 
-- 🌱 I’m currently learning **React TypeScript**
+<div align='center'>
+<img src="https://img.shields.io/badge/react-61dafb.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/css3-f43059.svg?&style=for-the-badge&logo=css3&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/javascript-f7df1e.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/C Sharp-7b68ee.svg?&style=for-the-badge&logo=C sharp&logoColor=white" height="25"/>
+<p>
 
-- 📫 How to reach me **dedar@eclipso.it**
+<img align='center' src="https://img.shields.io/badge/python-02569b.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
+<img align='center' src="https://img.shields.io/badge/docker-2496ed.svg?&style=for-the-badge&logo=docker&logoColor=white" height="25"/>
+<img align='center' src="https://img.shields.io/badge/Amazon Aws-232f3e.svg?&style=for-the-badge&logo=amazon aws&logoColor=white" height="25"/>
+</p>
 
-
-
+</div>
  <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=devded&count_private=true&show_icons=true&theme=buefy" alt="devded" width="420"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devded&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=buefy" alt="devded" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JaehyunYoo&count_private=true&show_icons=true&theme=tokyonight" alt="devded" width="420"/> 
  </p>
-
-
-
