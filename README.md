@@ -2,7 +2,7 @@
 
 <p align='center'><img  src="https://komarev.com/ghpvc/?username=JaehyunYoo" alt="JaehyunYoo" /></p>
 
-<p align='center'>💿  I Like React,Javascript ❤️  Functional Programming 💿 </p>
+<p align='center'>💿 &nbsp; I Like React,Javascript ❤️  Functional Programming &nbsp;💿 </p>
 
 <div align='center'>
 <img src="https://img.shields.io/badge/react-61dafb.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/>
