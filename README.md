@@ -16,6 +16,7 @@
 <img align='center' src="https://img.shields.io/badge/python-02569b.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
 <img align='center' src="https://img.shields.io/badge/docker-2496ed.svg?&style=for-the-badge&logo=docker&logoColor=white" height="25"/>
 <img align='center' src="https://img.shields.io/badge/redis-dc382d.svg?&style=for-the-badge&logo=redis&logoColor=white" height="25"/>
+<a href="https://velog.io/@yeonu/"> <img src="https://img.shields.io/badge/Velog-4ED998?style=for-the-badge&logo=Vimeo&logoColor=white">
 </p>
 
 </div>
