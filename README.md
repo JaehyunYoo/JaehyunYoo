@@ -25,14 +25,9 @@
 </div>
 
   <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=JaehyunYoo&count_private=true&show_icons=true&theme=tokyonight" alt="devded" width="420"/> 
-
- </p>
- <p align='center'>
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <img src="https://github-readme-stats.vercel.app/api?username=JaehyunYoo&count_private=true&show_icons=true&theme=tokyonight" alt="devded"/> 
+  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaehyunYoo&layout=compact&theme=tokyonight" />
-
  </p>
 
 
