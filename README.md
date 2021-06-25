@@ -28,7 +28,7 @@
 
  <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=JaehyunYoo&count_private=true&show_icons=true&theme=tokyonight" alt="JaehyunYoo" width="420"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaehyunYoo&hide=jupyter%20notebook,html,css,java&langs_count=8&layout=compact&theme=tokyonight" alt="JaehyunYoo" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaehyunYoo&hide=jupyter%20notebook,html,css,java,ruby&langs_count=8&layout=compact&theme=tokyonight" alt="JaehyunYoo" height="165" />
  </p>
 
 
