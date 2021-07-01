@@ -2,7 +2,7 @@
 
 <p align='center'><img  src="https://komarev.com/ghpvc/?username=JaehyunYoo" alt="JaehyunYoo" /></p>
 
-<p align='center'>💿  I Like React,Javascript ❤️   Programming 💿  </p>
+<p align='center'>💿  I Like React,Javascript ❤️  Programming 💿  </p>
 
 <div align='center'>
 <img src="https://img.shields.io/badge/react-61dafb.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/>
@@ -34,7 +34,7 @@
 
 
 ## Frontend Developer
-* Javascript, React , Node.js, GraphQL I'm still learning
+* Javascript, React , Node.js, GraphQL 
 ## Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -45,7 +45,6 @@
 ## Interest
 * Websoket and Animation Canvas Learing
 * Three.js I liked
-* TensorFlow Interesting
-* React , Vue, Flutter
+* JavaScript, React, React Native 
 
 
