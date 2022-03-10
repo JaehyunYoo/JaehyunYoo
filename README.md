@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/javascript-f7df1e.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/go-00add8.svg?&style=for-the-badge&logo=go&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/flutter-F9BBD0.svg?&style=for-the-badge&logo=flutter&logoColor=blue" height="25"/>
  <a href="https://velog.io/@yoojaehyun" align="center"> 
  <img src="https://img.shields.io/badge/Velog-4ED998?style=for-the-badge&logo=Vimeo&logoColor=white" height="25">
  </a>
