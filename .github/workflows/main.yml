@@ -5,12 +5,16 @@ on:
     - cron: "0 18 * * *"
   workflow_dispatch:
 
+concurrency:
+  group: profile-3d-contrib
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
@@ -20,5 +24,6 @@ jobs:
           git config user.name JaehyunYoo
           git config user.email nike361@naver.com
           git add -A .
-          git commit -m "generated"
+          git commit -m "generated" || exit 0
+          git pull --rebase origin main
           git push
